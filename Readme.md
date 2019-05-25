@@ -1,0 +1,1 @@
+To start the server user command *npm start*
